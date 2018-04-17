@@ -1,0 +1,11 @@
+
+<suite name="Suite" parallel="methods" thread-count="3">
+  <test name="Test">
+    <classes>
+      <class name="TestNG.NewTest4"/>
+      <class name="TestNG.TestNG6"/>
+      
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

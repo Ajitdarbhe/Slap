@@ -1,0 +1,8 @@
+<suite name="LOGIN">
+  <test name="Sanitytest">
+    <classes>
+      <class name="TestNG.NewTest1"/>
+      <class name="TestNG.NewTest2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
